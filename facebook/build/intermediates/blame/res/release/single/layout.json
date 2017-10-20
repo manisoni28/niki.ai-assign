@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_picker_title_bar.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_placepickerfragment.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_picker_checkbox.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_friendpickerfragment.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_login_activity_layout.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_picker_title_bar_stub.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_picker_activity_circle_row.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_search_bar_layout.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_usersettingsfragment.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_picker_image.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_placepickerfragment_list_row.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_picker_list_row.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_picker_search_box.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/build/intermediates/res/merged/release/layout/com_facebook_picker_list_section_header.xml",
+        "source": "/Users/manisoni28/StudioProjects/NikiAssignment/facebook/res/layout/com_facebook_picker_list_section_header.xml"
+    }
+]

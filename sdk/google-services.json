@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "563939644658",
+    "firebase_url": "https://messaging-app-f625b.firebaseio.com",
+    "project_id": "messaging-app-f625b",
+    "storage_bucket": "messaging-app-f625b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563939644658:android:129d2f8a8114a776",
+        "android_client_info": {
+          "package_name": "com.example.manisoni28.nikiassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563939644658-ua8hu1cfpesa65csvjle2bjeojqpl9es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBncm5ukd9q0cWi1DmHqZZxhHFT3Kax0CM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
